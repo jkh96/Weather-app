@@ -1,0 +1,18 @@
+body {
+    background-image: url(/others/images/sky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rct {
+    border-radius: 40px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.rct input {
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    outline: none;
+}
