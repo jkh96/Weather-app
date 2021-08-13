@@ -1,7 +1,5 @@
 import { displayinfo } from "./display"
 
-let apikey = "2dac6ab794e0c5e0f41f4f72547878ab"
-
 
 export async function getWeather() {
     let result = document.querySelector('.search-input').value
